@@ -10,7 +10,7 @@ na root nivoju projekta:
 ```
 mvn install
 mvn clean package
-java -jar .\target\demo-0.0.1-SNAPSHOT.jar
+java -jar ./target/demo-0.0.1-SNAPSHOT.jar
 ```
 
 ## Docker
