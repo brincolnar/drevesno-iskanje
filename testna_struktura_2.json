@@ -1,0 +1,9 @@
+[
+    {
+        "type":"link",
+        "name":"a",
+        "target":"/etc/a.txt",
+        "contents":[
+        ]
+    }
+]

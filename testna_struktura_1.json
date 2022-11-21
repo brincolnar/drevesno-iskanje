@@ -1,0 +1,55 @@
+[
+    {
+        "type":"directory",
+        "name":"/a",
+        "contents":[
+           {
+              "type":"file",
+              "name":"a.txt"
+           },
+           {
+              "type":"directory",
+              "name":"b",
+              "contents": [
+                {
+                    "type":"file",
+                    "name":"a.txt"
+                },
+                {
+                    "type":"directory",
+                    "name":"d",
+                    "contents": [
+                        {
+                            "type":"file",
+                            "name":"b.txt"
+                        }
+                    ]
+                },
+                {
+                    "type":"directory",
+                    "name":"e",
+                    "contents":[
+
+                    ]
+                }
+              ]
+           },
+           {
+            "type":"directory",
+            "name":"c",
+            "contents": [
+                {
+                    "type":"directory",
+                    "name":"f",
+                    "contents":[
+                        {
+                            "type":"file",
+                            "name":"a.txt"
+                        }
+                    ]
+                }
+            ]
+           }
+        ]
+     }
+]
